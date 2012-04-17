@@ -1,0 +1,10 @@
+2011-11-05  Matthias Geisler  <matthias@openwebcraft.com>
+
+    * loader.rb: initial version, loading data form Amazon Product Advertising API
+
+2011-11-07  Matthias Geisler  <matthias@openwebcraft.com>
+
+    * Gemfile: added in order to use Bundler
+	* README.md: updated to reflect usage of Bundler and CouchRest GEMs
+	* configuration.yml: added to externalize configuration for AWS and CouchDB
+	* loader.rb: added feature to save products to the couch 
