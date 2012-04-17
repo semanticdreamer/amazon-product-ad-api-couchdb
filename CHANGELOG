@@ -1,8 +1,8 @@
-2011-11-05  Matthias Geisler  <matthias@openwebcraft.com>
+2011-11-05  Matthias Geisler  <matthias@semanticdreamer.com>
 
     * loader.rb: initial version, loading data form Amazon Product Advertising API
 
-2011-11-07  Matthias Geisler  <matthias@openwebcraft.com>
+2011-11-07  Matthias Geisler  <matthias@semanticdreamer.com>
 
     * Gemfile: added in order to use Bundler
 	* README.md: updated to reflect usage of Bundler and CouchRest GEMs
